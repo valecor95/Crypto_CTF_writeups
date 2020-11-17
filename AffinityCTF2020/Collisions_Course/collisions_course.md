@@ -55,6 +55,7 @@ It is very easy to create collisions in MD5 following the attack published by Wa
 
 Ok they are equal, we are ready use the link in the description of the challenges. It open a web page where we can upload two files.
 <img src="./img/site1.png" width="250"/>
+
 Uploading the two files generated the site gave us the flag.
 <img src="./img/site2.png" width="600"/>
 
